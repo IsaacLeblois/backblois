@@ -19,7 +19,7 @@ fs.readFile('productos.txt', 'utf-8', (err, resultado) => {
 })
 
 app.get("/", (req, res) => {
-    res.send("Servidor en linea.");
+    res.send("Servidor en linea. Hugo Isaac Vazquez Macias - CODERHOUSE");
 });
 
 app.get("/productos", (req, res) => {
