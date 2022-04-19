@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\CH-API-RESTful-master\\CH-API-RESTful-master"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "backblois"
+	}
+}

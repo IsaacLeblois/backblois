@@ -1,0 +1,10 @@
+* {
+    font-family: 'Oswald', sans-serif;
+}
+
+.panel {
+ display: flex;
+ flex-direction: column;
+ width: 600px;
+ margin: 40px 100px;
+}
